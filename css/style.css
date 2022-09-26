@@ -30,3 +30,7 @@ h2 {
 .mb {
     margin-bottom: 1.5rem;
 }
+
+.mb-large {
+    margin-bottom: 6rem;
+}
